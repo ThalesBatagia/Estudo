@@ -293,7 +293,7 @@ with tabs[1]:
         st.write("Clique no botão acima para zerar todos os checkboxes.")
 
     # Novo cabeçalho para o botão de salvar
-    st.header("Salvar Progresso")
+    st.header("Baixar Tabela")
 
     def baixar_excel():
         """Permite baixar o DataFrame como um arquivo Excel."""
